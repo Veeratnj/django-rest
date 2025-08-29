@@ -1,0 +1,7 @@
+django-admin startproject projectname .
+
+python manage.py runserver
+
+python manage.py migrate
+
+
